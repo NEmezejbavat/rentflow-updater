@@ -1,11 +1,11 @@
 {
-"version": "1.3.7",
+"version": "1.3.8",
 "notes": "Update",
 "pub_date": "2026-04-09T18:05:00Z",
 "platforms": {
 "windows-x86_64": {
-"url": "https://nemezejbavat.github.io/rentflow-updater/Rentflow_1.3.7_x64-setup.exe",
-"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZlduRVNHNDllTmN4b3FGTjk2eXUvNTU4azN5NGFyYVhDZmhTT2JSb3A3aWlLSlN1SGxiOTZuaXhyS0YraVZxTVFXWm9CRjN0MjFvc0N6RTlQNFJKZC9QRkpjNDI2d3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU3NzA3CWZpbGU6UmVudGZsb3dfMS4zLjdfeDY0LXNldHVwLmV4ZQpCNXhJMlB5WHBYM3psL3pwV1dHVmNrLzE5ejZSbUxyaUQvUXJpMFBBbE9NbmtxbEp3YmJoRGVpTllqdVdyaURFODNDdm9UbmwxVm9kSXY1eGZKQWRCZz09Cg=="
+"url": "https://nemezejbavat.github.io/rentflow-updater/Rentflow_1.3.8_x64-setup.exe",
+"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZlduRVNHNDllTmNvdG5oaTBOQ0laWDZPRHhFTGlmdnF2RkdyTVF1QUh3STd4cE1SUHd0Tk9WVml4Q3laNjQ0QW50aFZuZE1wUUZzanhDVjA5cG13cEMvZW5kRVRBTHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU4OTQxCWZpbGU6UmVudGZsb3dfMS4zLjhfeDY0LXNldHVwLmV4ZQpsT2JmcnVxQUFSeHRjYVJjM0gwRGkveDA5SXh2UUpnQ3lqcE5jY0FtU0I0ZHRsbTZaSlMyRU5FaWZzdHU4RGZWZDZyanNod2krMTEwckUvazZuYWlCZz09Cg=="
 }
 }
 }
